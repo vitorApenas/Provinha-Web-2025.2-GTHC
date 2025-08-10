@@ -9,6 +9,8 @@ Para basear o projeto do desafio, eu escolhi o framework Vite com typescript, se
 
 Já para o estilo, usei outro framework, o TailwindCSS, por já ter experiência com ele e pela praticidade de já estilizar nas classes, isso tudo além da lib de ícones, importei a que foi utilizada no exemplo do projeto para pegar os ícones exatamente iguais.
 
+O repositório está no Github, e está hospedado em um servidor da Vercel, no domínio: [provinha-web-2025-2-gthc.vercel.app](provinha-web-2025-2-gthc.vercel.app).
+
 ## Comentários sobre o projeto
 (Vale ressaltar que eu estou escrevendo esse readme inteiro de uma vez, após terminar o projeto)
 
